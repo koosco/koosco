@@ -1,8 +1,5 @@
 [![koosco's GitHub stats](https://github-readme-stats.vercel.app/api?username=koosco)](https://github.com/koosco/github-readme-stats)
 
-## BaekJoon
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=rnxogud136)](https://solved.ac/rnxogud136)
-
 
 <!--
 **koosco/koosco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
