@@ -1,3 +1,7 @@
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/koosco?pet-id=1" width="1000" height="120"/>
+</a>
+
 ## Skills
 ### Languages
 ![Java](https://img.shields.io/badge/java-4C7491.svg?style=for-the-badge&logo=java&logoColor=white)
