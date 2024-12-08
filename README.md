@@ -19,7 +19,26 @@
 
 [![koosco's GitHub stats](https://github-readme-stats.vercel.app/api?username=koosco)](https://github.com/koosco/github-readme-stats)
 
-
+## Activities
+<ul>
+  <li>빅테크 해커톤 <sub>(2024.12)</sub></li>
+  <li>구름톤 유니브 3기 <sub>(2024.07 ~ 2024.12)</sub>
+      <ul>
+          <li>🏆 구름톤 유니브 단풍톤 우수상 <sub>(2024.12)</sub></li>
+          <li>9oormthonUniv 연합해커톤 참여 <sub>(2024.09.28 ~ 2024.09.29)</sub></li>
+      </ul>
+  </li>
+  <li>카카오X구름 deep dive Full stack with Generative AI <sub>(2024.07 ~ 2024.09)</sub>
+    <ul>
+        <li>🏆 카카오X구름 deep dive Full stack with Generative AI 최우수상<sub>(2024.09)</sub></li>
+    </ul>
+  </li>
+  <li>카카오클라우드 스쿨 4기 수료 <sub>(2023.12 ~ 2024.06)</sub>
+    <ul>
+        <li>🏆 카카오클라우드 스쿨 4기 우수상<sub>(2024.06)</sub></li>
+    </ul>
+  </li>
+</ul>
 <!--
 **koosco/koosco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
