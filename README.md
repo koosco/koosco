@@ -3,18 +3,8 @@
 </a>
 
 ## Skills
-### Languages
-![Java](https://img.shields.io/badge/java-4C7491.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-
-### Frameworks
-![Spring](https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Fastapi](https://img.shields.io/badge/fastapi-009184.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Database
-![Mysql](https://img.shields.io/badge/mysql-42759C.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-D12E26.svg?style=for-the-badge&logo=redis&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=java,python,spring,mysql,redis,terraform)](https://skillicons.dev)
 
 <br>
 
-[![koosco's GitHub stats](https://github-readme-stats.vercel.app/api?username=koosco)](https://github.com/koosco/github-readme-stats)
+ <img height="250" alt="My GitHub Stats" src="https://github-readme-stats-git-master-mitkovtori.vercel.app/api?username=koosco&count_private=true&random=23423ads&include_all_commits=true&hide_border=true&theme=night_vibe" />
